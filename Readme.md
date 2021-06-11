@@ -1,3 +1,6 @@
+npx babel src/example.js
+npx babel-node src/example.js
+
 ```
 function g() {
 }
